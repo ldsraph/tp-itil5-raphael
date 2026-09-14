@@ -1,0 +1,6 @@
+﻿"ID";"Title";"Status";"Last update";"Opening date";"Priority";"Requester - Requester";"Assigned to - Technician";"Category";"Time to resolve"
+"6";"Logiciel comptabilité";"Pending";"2026-09-14 10:45";"2026-09-14 10:40";"Medium";"Raphael";"";"";""
+"2";"Imprimante";"Pending";"2026-09-14 10:38";"2026-09-14 09:30";"Medium";"glpi";"glpi";"";""
+"1";"VPN";"Pending";"2026-09-14 10:20";"2026-09-14 08:01";"Medium";"glpi";"glpi";"";""
+"4";"Problème messagerie";"Processing (assigned)";"2026-09-14 10:14";"2026-09-14 09:45";"Medium";"Raphael";"glpi";"";""
+"3";"Mail fournisseur";"Pending";"2026-09-14 09:32";"2026-09-14 09:32";"Medium";"glpi";"glpi";"";""
